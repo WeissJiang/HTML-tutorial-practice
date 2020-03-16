@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+ <head>
+  
+ </head>
+ <body>
+  <p> Pathfinder have 3 types of skills </p>
+       
+       <ul>
+         <li> Cardinal Force skill </li>
+         <li> Ancient Force skill </li>
+         <li> Enchant Force skill </li>
+       </ul>
+  
+       <ol>
+         <li> Cardinal Force skill </li>
+         <li> Ancient Force skill </li>
+         <li> Enchant Force skill </li>
+       </ol>
+  
+ </body>
+</html>
+
+
+notes:
+<ul>   unordered lists (with bullets)
+<ol>   ordered lists (with numbers)
+<li>   list items
