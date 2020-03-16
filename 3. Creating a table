@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+ <head>
+ 
+ </head>
+ <body>
+ 
+      <table>
+        <tr>
+          <th> Horse </th>
+          <th> Rabbit </th>
+          <th> Cat </th>
+          <th> Dog </th>
+        </tr>
+        
+        <tr>
+          <td> Foal: a very young horse or donkey </td>
+          <td> Bunny: a young rabbit </td>
+          <td> Kitten: a young cat </td>
+          <td> Puppy: a young dog </td>
+        </tr>
+      </table>
+ </body>
+</html>
+
+
+notes:
+<table>
+<tr>   table rows
+<td>   data
+<th>   table columns
