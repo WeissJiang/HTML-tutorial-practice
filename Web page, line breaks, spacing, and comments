@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+ <head>
+  <title> My Web Page </title>
+ </head>
+ <body>
+  <h1> The xoloveStormi Web Site </h1>
+  <p> Welcome the xoloveStormi Web Site. Information about xoloveStormi is in this web site. </p>
+  test &nbsp&nbsp&nbsp&nbsp&nbsp test
+  <br>
+  <br>
+  <br>
+  <h2> This is a section on Pathfinder </h2>
+  <p> MapleStory Pathfinder is an inquisitive adventurer who is mesmerized by ancient relics. 
+  While on expedition, Pathfinder found an Ancient Bow which allows them to utilizes ancient 
+  power but in exchange of being cursed. </p>
+ </body>
+</html>
+
+notes:
+<br>  line breaks
+<!--Here is the comment-->  comments
+&nbsp  spacing
