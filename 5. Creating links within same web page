@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+ <head>  </head>
+ <body>
+ 
+   <ul>
+     <li> <a href="#ARCHER BEGINNER SKILLS"> ARCHER BEGINNER SKILLS </a> </li>
+     <!-- # tag is going to be linked in something within this web page -->
+   </ul>
+   
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   
+   <h2> <a name="ARCHER BEGINNER SKILLS"> ARCHER BEGINNER SKILLS </a> </h2>
+   <h3> Return to Partem </h3>
+   <p> Return to Karupa Village.<br> Level 1: Cooldown: 600 seconds </p>
+   <br>
+   <h3> Ancient Curse (Hidden Skill) </h3>
+   <p> Various stats fall due to the unknown curse. <br>
+   By the influence of curse, only Ancient Bow can be equipped.<br>
+   As the equipped Relic grows stronger, the curse effect grows weaker.<br>
+   Skills used with Ancient Bow does not consume arrows.<br>
+   Note: Available upon obtaining Cursed Relic. Debuff grows weaker with every job advancement.<br>
+   Appears as permanent buff instead of within the skill list. </p>
+   <br>
+   
+ </body>
+</html>
+
+
+notes:
+<a href="#"> </a> and <a name=""> </a>
