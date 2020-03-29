@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+ <head>  </head>
+ <body>
+ 
+   <p> </p>
+    
+ </body>
+</html>
+
+
+notes:
+nested element: putting an element inside another element.
+html element is the root element
+body element is the parent element
+inside the body element, p element is the child element
+parent-child relationship
