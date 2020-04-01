@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+ <head>  </head>
+ <body>
+ 
+  <form action="" method="">
+  
+  Comments:</br>
+  <textarea rows="10" cols="40">  </textarea></br>
+
+  <input type="submit" value="Submit">
+
+  </form>
+    
+ </body>
+</html>
+
+
+
+notes: 
+the browser will actually automatically put a scroll bar.
+type="submit" will give us a submit button.
+value="Submit" controls the text of the button.
