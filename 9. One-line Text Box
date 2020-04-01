@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+ <head>  </head>
+ <body>
+ 
+  <form action="" method="">
+
+  <!--Inout element go in here-->
+  <!--one lien text box-->
+  
+  <input type="text" name="" size="50">
+
+  </form>   
+    
+ </body>
+</html>
+
+
+notes: 
+input tag does not need a closing tag.
+type="text": "text" denotes that this will be a one line text box
+
+
+
