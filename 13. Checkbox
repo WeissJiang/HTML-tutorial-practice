@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+ <head>  </head>
+ <body>
+ 
+  <form action="" method="">
+  
+  Which subjects are you interested in? </br>
+ 
+  <input type="checkbox" name="" checked="checked"> Football </br>
+
+  <input type="checkbox" name=""> Basketball </br>
+
+  <input type="checkbox" name=""> Baseball </br>
+
+  <input type="checkbox" name=""> Hockey
+
+  </form>
+    
+ </body>
+</html>
+
+
+
+notes: 
+If you wanne one of the options to aways be selected, we can use the "checked" attribute. 
+As shown above, football has been automatically selected already.
