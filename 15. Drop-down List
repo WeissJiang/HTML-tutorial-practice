@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+ <head>  </head>
+ <body>
+ 
+  <form action="" method="">
+ 
+  <select>
+
+    <option value="Apple">Apple</option>
+    <option value="Pineapple">Pineapple</option>
+    <option value="Orange">Orange</option>
+
+  </select>
+
+  </form>
+    
+ </body>
+</html>
+
+
+
+notes: 
+Select element: we use to create a drop-down list.
