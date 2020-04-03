@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+ <head>  </head>
+ <body>
+ 
+   <audio controls autoplay loop draggable="true">  
+     <source src="Night Market.mp3"/>
+   </audio>
+
+<!--
+Three standard formats for web browers are .mp3 .wav and .ogg
+-->
+
+ </body>
+
+</html>
+
+
+
+notes: 
+"autoplay":自动播放
+"loop": 循环播放
+"draggable":可拖曳的
