@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+ <head>  </head>
+ <body>
+ 
+   <h1> Melbourne </h1>
+   <p> <img src="Melbourne.jpg" width="50%" height="50%"> </p>
+
+ </body>
+
+</html>
+
+
+
+notes: 
+The doctype is not actually an HTML tag, it is an instruction to the web browser about
+what vision of HTML the page needs to use.
+In HTML 5, <!doctype html> is one size fits all.
