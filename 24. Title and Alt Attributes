@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+ <head>  </head>
+ <body>
+ 
+  <img src="2.jpg" width="50%" height="50%" title="Morning Tea" alt="Morning Tea">
+
+ </body>
+
+</html>
+
+
+
+notes: 
+"title" attribute: basically creates a nice little tooltip when you hover over a particular HTML element.
+"alt" attribute: alternate text for an image in case we can't display this image.
