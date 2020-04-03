@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+ <head>  </head>
+ <body>
+ 
+   <video with="640" height="360" controls>  
+     <source src="Melbourne.mp4"/>
+   </video>
+
+<!--
+Three standard formats for web browers are .mp4 .webm and .ogg
+-->
+
+ </body>
+
+</html>
+
+
+
+notes: 
