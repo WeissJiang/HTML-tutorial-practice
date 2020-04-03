@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+ <head>  </head>
+ <body>
+ 
+  <p> This is a <b>bold</b> element. </p>
+  <p> This is a <strong>strong</strong> element. </p>
+
+  <p> This is a <i>italic</i> element. </p>
+  <p> This is a <em>em</em> element. </p>
+    
+ </body>
+
+</html>
+
+
+
+notes: 
+<b>   </b>
+<strong>   </strong>
+There is nothing different visually between "bold" and "strong" elements. The difference in fact there is that the
+"strong" element in addition to making the text bold and also adds emphasis to the text to the blind people.
+
+<i>   </i>
+<em>   </em>
+The "italic" element and "em" element have the samee relationship. Basically the "em" element also adds emphasis in the
+way the "strong" element does and it can be read by text-to-speech programs as well as "strong" element.
