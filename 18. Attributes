@@ -1,0 +1,16 @@
+<p>   </p>
+<h1>   </h1>
+<body>   </body>
+
+<p class="test"> Some text in this paragraph </p>
+<label for="name"> Name </label>
+
+
+
+notes:
+A opening tag and a closing tag
+
+"Class" and "for" are attributes which always go in the opening tag.
+
+Some attributes only go with a particular element, so for instance, the "for" attribute
+is only available for the "label" element.
