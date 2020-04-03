@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+ <head>  </head>
+ <body>
+ 
+  <form action="" method="">
+ 
+  Enter day you want to travel to Canberra: 
+  <input type="date" name="day"> </br>
+  Number of days: <input type="number" name="numdays" min="1" max="7">
+
+  </form>
+    
+ </body>
+</html>
