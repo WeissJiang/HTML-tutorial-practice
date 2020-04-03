@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+ <head>  </head>
+ <body>
+ 
+   <audio controls loop>  
+     <source src="Night Market.mp3"/>
+   </audio>
+
+<!--
+Three standard formats for web browers are .mp3 .wav and .ogg
+-->
+
+ </body>
+
+</html>
+
+
+
+notes: 
+"loop": 循环播放
