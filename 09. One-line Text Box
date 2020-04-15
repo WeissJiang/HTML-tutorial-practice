@@ -19,6 +19,3 @@
 notes: 
 input tag does not need a closing tag.
 type="text": "text" denotes that this will be a one line text box
-
-
-
