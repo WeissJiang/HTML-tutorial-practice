@@ -20,3 +20,4 @@
 
 notes: 
 "id" attribute has to match the "for" attribute and that's what ties these two together.
+(当你点击First Name的时候，firstname后面的输入栏会自动被选中)
